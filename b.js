@@ -1,3 +1,3 @@
-const c = 40;
+const age = 40;
 
 console.log(c);
